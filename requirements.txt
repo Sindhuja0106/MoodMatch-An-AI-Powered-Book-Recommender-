@@ -1,0 +1,9 @@
+flask
+pandas
+numpy
+chromadb
+sentence-transformers
+langchain
+langchain-community
+langchain-chroma
+langchain-huggingface
